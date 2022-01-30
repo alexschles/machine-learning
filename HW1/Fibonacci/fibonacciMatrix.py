@@ -31,4 +31,3 @@ def multiply(F, M):
     F[1][0] = c 
     F[1][1] = d
 
-print(fib_matrix(5))

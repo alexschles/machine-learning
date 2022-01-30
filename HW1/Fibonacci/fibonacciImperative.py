@@ -13,4 +13,3 @@ def fib_imperative(n):
     
     return sum
 
-print(fib_imperative(8))
